@@ -154,6 +154,7 @@ The issue is **not customer pricing**, but **inconsistent dealer margin policies
 - Increase farmer awareness for innovative fertilizers  
 
 ---
-By Ritik Sharma
 
 ## 📁 Repository Structure
+
+By Ritik Sharma
